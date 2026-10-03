@@ -6,4 +6,6 @@ class Carro:
 
 carro = Carro ("Honda Civic", "2020", "0Km")
 
+print(carro.nome)
 print(carro.km_rodados)
+print(carro.ano)
