@@ -1,2 +1,1 @@
-Tchau novamente
-One Piece é muito bom
+Eu estou começando a aprender open() na escola, na matéria de Lógica e linguagem de programação.
